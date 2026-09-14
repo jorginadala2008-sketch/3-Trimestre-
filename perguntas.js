@@ -1,0 +1,60 @@
+criarcartao(
+    'Matematica',
+    'Pergunta',
+    'Resposta', 
+)
+criarcartao(
+    'Matematica',
+    'Pergunta',
+    'Resposta', 
+)
+criarcartao(
+    'Matematica',
+    'Pergunta',
+    'Resposta', 
+)
+criarcartao(
+    'Matematica',
+    'Pergunta',
+    'Resposta', 
+)
+criarcartao(
+    'Matematica',
+    'Pergunta',
+    'Resposta', 
+)
+criarcartao(
+    'Matematica',
+    'Pergunta',
+    'Resposta', 
+)
+criarcartao(
+    'Matematica',
+    'Pergunta',
+    'Resposta', 
+)
+criarcartao(
+    'Matematica',
+    'Pergunta',
+    'Resposta', 
+)
+criarcartao(
+    'Matematica',
+    'Pergunta',
+    'Resposta', 
+)
+criarcartao(
+    'Matematica',
+    'Pergunta',
+    'Resposta', 
+)
+criarcartao(
+    'Matematica',
+    'Pergunta',
+    'Resposta', 
+)
+criarcartao(
+    'Matematica',
+    'Pergunta',
+    'Resposta', 
+)
