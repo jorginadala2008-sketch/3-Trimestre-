@@ -1,5 +1,5 @@
 :root{
-    --fundo:#a871a8;
+    --fundo:#cc96cc;
     --cor-texto:#abd16f;
     --cor-texto-preto:#1a1c17;
     --frente-cartao: #9d83cd;
@@ -33,5 +33,8 @@ body{
 }    
 
 .cartao__conteudo__pergunta{
+
+}
+.cartao__conteudo__resposta{
 
 }
