@@ -3,7 +3,7 @@
     --cor-texto:#abd16f;
     --cor-texto-preto:#1a1c17;
     --frente-cartao: #9d83cd;
-    --verso-cartao: #586cd1;
+    --verso-cartao: #5168db;
 }
 
 body{
@@ -32,3 +32,6 @@ body{
     font-size: 1.4vw;
 }    
 
+.cartao__conteudo__pergunta{
+
+}
