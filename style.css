@@ -5,3 +5,7 @@
     --frente-cartao: #5c6ba1;
     --verso-cartao: #75315c;
 }
+
+body{
+    background-color: var(--fundo);
+}
