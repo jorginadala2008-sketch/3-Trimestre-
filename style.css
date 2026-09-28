@@ -1,5 +1,5 @@
 :root{
-    --fundo:#381d38;
+    --fundo:#a871a8;
     --cor-texto:#abd16f;
     --cor-texto-preto:#1a1c17;
     --frente-cartao: #9d83cd;
@@ -31,3 +31,4 @@ body{
     padding: 2rem;
     font-size: 1.4vw;
 }    
+
