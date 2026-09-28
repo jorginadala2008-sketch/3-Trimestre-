@@ -1,8 +1,8 @@
 :root{
-    --fundo:#785c69;
+    --fundo:#d586ab;
     --cor-texto:#abd16f;
     --cor-texto-preto:#1a1c17;
-    --frente-cartao: #b888b3;
+    --frente-cartao: #9d83cd;
     --verso-cartao: #5664ac;
 }
 
@@ -22,4 +22,5 @@ body{
     padding: 0.5rem;
     margin: 0.6rem;
     position: absolute;
+    
 }
