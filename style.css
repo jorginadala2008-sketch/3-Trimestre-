@@ -16,7 +16,7 @@ body{
 }
 
 .cartao__conteudo h3{
-    color: bisque;
+    color:var(--cor-texto);
     border: 1px solid var(--cor-texto-preto);
     text-align: left;
     padding: 0.5rem;
@@ -26,15 +26,22 @@ body{
     font-size: 1vw;
 }
 
-.cartao__cont{
+.cartao__conteudo p {
     margin-top: 1rem;
     padding: 2rem;
     font-size: 1.4vw;
 }    
 
-.cartao__conteudo__pergunta{
-
+.cartao__conteudo__pergunta p {
+    color:var(--cor-texto-preto);
+    font-weight: 500;
 }
 .cartao__conteudo__resposta{
+    color:var(--cor-texto);
+    font-weight: 700;
 
+}
+
+.cartao.active.cartao__conteudo{
+    transform: rotate(180deg);
 }
