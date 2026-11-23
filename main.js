@@ -27,5 +27,4 @@ let respostaEstaVisivel = false;
 
 }
 
-
     container.appendChild(cartao)
